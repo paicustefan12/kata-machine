@@ -9,5 +9,6 @@ module.exports = {
         "BFSGraphMatrix",
         "DijkstraList",
         "MazeSolver",
+        "QuickSort",
     ],
 }

@@ -10,5 +10,11 @@ module.exports = {
         "DijkstraList",
         "MazeSolver",
         "QuickSort",
+        "BTPreOrder",
+        "BTInOrder",
+        "BTPostOrder",
+        "BTBFS",
+        "CompareBinaryTrees",
+        "MinHeap",
     ],
 }

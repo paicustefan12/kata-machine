@@ -7,6 +7,7 @@ module.exports = {
         "DFSOnBST",
         "DFSGraphList",
         "BFSGraphMatrix",
-        "DijkstraList"
+        "DijkstraList",
+        "MazeSolver",
     ],
 }
